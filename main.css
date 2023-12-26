@@ -1,0 +1,260 @@
+.navbar{
+    background-color: rgb(174, 0, 255) ;
+}
+
+    
+
+#img1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+
+/* slider st */
+
+.carousel .carousel-inner .carousel-item img{
+    height: 70vh
+}
+
+.carousel-indicators button{
+    width: 20px !important;
+    height: 20px !important;
+    border-radius: 50% !important;
+ background-color: blue !important;
+ 
+}
+
+.carousel-caption{
+    top: 0;
+    margin-right: 700PX !important;
+    color: blue;
+}
+.rousel-caption h3{
+    color: #b3e55c !important;
+}
+
+
+/* About */
+.l{
+    width: 30px;
+    height: 5px;
+    background-color: brown;
+}
+
+
+
+/* MY PAGES */
+
+.profile{
+    background-color: black;
+    width: 100%;
+    height: 700px;
+}
+.profile-pic img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 5px solid rgb(110, 107, 107);
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 30px;
+}
+.profile-name{
+    color: white;
+  margin-top: 10px;
+  margin-left: 30px;
+}
+.media {
+    margin-left: 25px;
+}
+.media a{
+   
+    font-size: 20px;
+    color: white;
+   
+    margin-left: 7px;
+    border-radius: 40%;
+    background-color:  rgb(110, 107, 107) ;
+}
+.media a:hover{
+    background-color: blue;
+
+}
+.profile-home a{
+    text-decoration: none;
+}
+.profile-home{
+    margin-top: 20px;
+    margin-left: 30px;
+    
+    font-size: 20px;
+}
+.profile-home a:hover{
+    color: white !important;
+}
+.st{
+    margin-top: 90px;
+    color: white;
+}
+
+
+.home .image{
+    position: relative;
+    
+}
+
+.home .text{
+    position: absolute;
+    top:0;
+}
+.text h1{
+margin-top: 100px;
+margin-left: 300px;
+font-size: 50px;
+color: white;
+
+}
+.text p{
+   
+    margin-left: 300px;  
+    color: white; 
+    font-size: 30px;
+}
+
+.l{
+    width: 30px;
+    height: 5px;
+    background-color: brown;
+}
+.icon{
+    font-size: 20px;
+}
+.ptag{
+    font-size: 20px;
+}
+.happ .happy-icon{
+    font-size: 70px !important;
+    color: aqua;
+}
+.gol{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 3px solid rgb(36, 4, 47);
+}
+.line{
+    width: 2px;
+    height: 200px;
+    background-color: rgb(36, 4, 47);
+    margin-left: 8px;
+}
+.line2{
+    width: 2px;
+    height: 307px;
+    background-color: rgb(36, 4, 47);
+    margin-left: 8px;
+}
+.buton{
+    text-align: center;
+   
+}
+.buton a{
+    text-decoration: none;
+    margin-left: 20px;
+    
+    
+}
+
+.s-icon {
+    width: 200px;
+    height: 70px;
+    border-radius: 50%;
+    border: 1px solid rgb(44, 85, 125);
+    background-color: rgb(44, 85, 125);
+    color: black;
+    font-size: 40px;
+   
+}
+.s-icon:hover{
+    background-color: white;
+}
+.s-icon i{
+margin-top: 80px;
+margin-left: 20px;
+}
+.name-s h4:hover{
+  color: rgb(44, 85, 125);  
+}
+.row .node{
+    position: sticky;
+    top: 0;
+    align-self: flex-start;
+
+}
+
+.t-img img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 5px solid rgb(110, 107, 107);
+}
+.t-img {
+    text-align: center;
+}
+.t-name{
+    text-align: center;
+
+}
+.testimonials-1{
+    border: 2px solid rgb(110, 107, 107) ;
+}
+
+.t-dites p{
+    font-style: italic;
+    margin: 0 15px 15px 15px;
+    padding: 20px;
+    background: #fff;
+    position: relative;
+    margin-bottom: 35px;
+    border-radius: 6px;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+}
+.l-icon{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgb(123, 123, 184);
+    font-size: 30px;
+}
+.l-icon i{
+    color: blue;
+    margin-left: 10px;
+    
+}
+.l-icon:hover{
+    background-color: blue;
+    
+}
+.l-icon i:hover{
+    color: white;
+}
+.Location{
+    background-color: #efebeb;
+}
+.buton{
+    align-items: center;
+    margin-top: 30px;
+}
+.buton button{
+    padding: 10px;
+    background-color: rgb(41, 70, 83);
+    color: white;
+}
+.mes{
+    background-color:#efebeb ;
+}
+
+.khairul{
+    text-align: center;
+}
